@@ -1,0 +1,4 @@
+[dependencies]
+rodio = "0.11"
+aubio = { git = "https://github.com/aubio/aubio-rs.git" }
+minifb = "0.23"
